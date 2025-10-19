@@ -1,5 +1,4 @@
-https://github.com/Raisilin/posmotri_v_okno
-
+(https://github.com/Raisilin/posmotri-v-okno-ad)
 # Яндекс Практикум, практическая работа "Посмотри В Окно"
 
 ## Оглавление
