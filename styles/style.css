@@ -192,11 +192,6 @@ ol {
   margin-bottom: 5px;
 }
 
-.search-form__checkbox-list {
-  display: flex;
-  gap: 15px;
-}
-
 .search-form__fieldset {
   display: flex;
   flex-direction: column;
